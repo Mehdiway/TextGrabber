@@ -1,25 +1,19 @@
-# Screen OCR Tool v1.0
+# 📱 TextGrabber
 
-Installation:
+A lightweight Windows application that provides instant OCR (Optical Character Recognition) functionality directly from your system tray. Select any area of your screen and extract text instantly.
 
-1. Extract all files to a folder
-2. Run ScreenOCRApp.exe
-3. Look for blue "A" icon in system tray
+## ✨ Features
 
-Usage:
+- 🎯 **System Tray Integration** - Stays out of your way until needed
+- 📐 **Rectangle Selection** - Drag to select any area on screen
+- 🔍 **Tesseract OCR Engine** - High-quality text recognition
+- 📋 **Clipboard Integration** - One-click copy to clipboard
+- ⚡ **Instant Results** - Fast processing and display
+- 🚫 **No Installation Required** - Portable executable
+- 🔒 **Privacy Focused** - All processing done locally
 
-- Left-click tray icon to start screen capture
-- Drag to select rectangle area with text
-- View extracted text in result window
-- Click Copy to copy text to clipboard
+## 🔗 Related Projects
 
-Requirements:
-
-- Windows 10 or later
-- .NET Framework 4.7.2+ (or .NET 6+ runtime)
-
-Troubleshooting:
-
-- If OCR doesn't work, ensure tessdata folder is present
-- Run as administrator if having permission issues
-- Contact: your.email@domain.com
+- [ShareX](https://github.com/ShareX/ShareX) - Feature-rich screenshot tool
+- [Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Another OCR tool for Windows
+- [Tesseract.js](https://github.com/naptha/tesseract.js) - OCR for web browsers
